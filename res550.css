@@ -1,0 +1,78 @@
+body {
+    background: url(http://wallpaperswide.com/download/design_by_dakoder-wallpaper-3840x2160.jpg);
+    background-size: cover;
+    background-position: center; 
+}
+
+.about{
+    background:unset;
+    background-color: #e0d9d9;
+}
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: "Lato";
+    color: white;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+
+
+#content{
+	padding-top: 25%;
+	text-align: center;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+hr {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+#name{
+    font-size: 2em;
+    width: 400px;
+}
+
+.navbar-inverse .navbar-brand{
+    color: white;
+}
+
+.navbar{
+    height: 52px;
+}
+
+.borders{
+    font-size: 1.2em;
+    font-weight: 600;
+    color: white;
+    border-left:1px solid #f8f8f8;
+    border-right:1px solid #f8f8f8;  
+}
+
+#aboutmehead{
+    font-size: 5em;
+    color: #101010;
+    font-weight: 700;
+}
+
+.About-rule{
+        width: unset;
+        border-top: 1px solid #000000;
+        border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+p{
+    font-size: 1.8em;
+    color: #101010;
+    font-weight: 500;
+}
+#aboutme{
+    padding-top: 8%;
+}
