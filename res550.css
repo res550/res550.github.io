@@ -38,6 +38,7 @@ hr {
 #name{
     font-size: 2em;
     width: 400px;
+    padding-left: 8%;
 }
 
 .navbar-inverse .navbar-brand{
