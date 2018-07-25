@@ -136,7 +136,7 @@ h1 {
     text-align: center;
 }
 
-.AboutMe h1{
+.AboutMe h1 , #project h1{
     padding-top: 1%;
     text-align: center;
     font-weight: 400;
@@ -150,7 +150,7 @@ h1 {
 }
 
 .myText{
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: 400;
 }
 #AboutMeHr{
